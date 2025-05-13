@@ -1,5 +1,5 @@
 <div class="container my-5">
-    <h1 class="mb-4 text-center text-primary">📚 Liste des livres</h1>
+    <h1 class="mb-4 text-center text-primary">Liste des livres</h1>
 
     <div class="list-group">
         @foreach($books as $book)
